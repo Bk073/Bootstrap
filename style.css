@@ -1,0 +1,76 @@
+.navbar{
+	margin-bottom: 0px;
+	border-radius: 0px;
+	background-color: #8dea8f;		
+/*	color:#F2F2F2;*/
+	border:0;
+
+}
+ .nav>li>a:hover{
+ 	background-color:#2bd6c4;
+ }
+ ul#MyNavbar.nav.nav-pills.navbar.right{
+ 	margin-left: 250px;
+ }
+ .navbar-brand {
+    height: 0px;
+ 	font-size: 0;
+    line-height: 20px;
+    padding:0;
+    padding-left:50px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    line-height: 30px;
+    border-radius: 0;
+
+}
+.scr{
+	padding-top: 8px;
+}
+#Des.h1, .h2, .h3, h1, h2, h3 {
+     margin-top: 20px; 
+     margin-bottom: 10px; 
+     padding: 8px;
+     background-color:#dff0d8a8;
+     border-top-left-radius: 10px;
+}
+.recent{
+	font-size: 14px;
+	line-height: 25px;
+	list-style-type: none;
+	border-bottom: 1px solid #f2f6fa;
+
+}
+/*@media (min-width: 992px)
+bootstrap.css:1931
+.col-md-12 {
+   height: 450px;
+}*/
+.glyphicon-expand:before {
+    content: "\e158";
+    line-height: 25px;
+}
+.h4, h4 {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-bottom: 1px solid #f2f6fa;
+}
+/*.h4, .h5, .h6, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}*/
+.img1{
+	
+	margin-top: 80px;
+}
+.img2{
+	
+	margin-top: 80px;
+}
+.container .row  a >img{
+	margin-top: 20px;
+}	
